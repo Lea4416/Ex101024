@@ -18,6 +18,13 @@ h2{
     font-size: medium;
 }
 
+h3{
+    text-align: center;
+    color: blue;
+    text-decoration: underline blueviolet;
+    font-size: medium;
+}
+
 p{
     color: blue;
     font-size: small;
